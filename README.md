@@ -44,13 +44,7 @@
 
 ---
 
-## 🚀 Deployment Notice
-You can deploy **GOAT-BOT-V2** on the following platforms:
 
-* **🐙 GitHub Actions:** Use the Actions tab to automate your bot workflow.
-* **🌐 Render:** Connect repo, use `npm install` and `node index.js`.
-* **🌀 Replit:** Import repo and use 'Secrets' for credentials.
-* **🚂 Railway:** Best for easy Node.js hosting.
 
 > [!WARNING]
 > **Privacy Note:** Never share your `account.txt` publicly on GitHub.
